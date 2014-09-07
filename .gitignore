@@ -1,3 +1,5 @@
 /.gradle/
 .settings/
 bin/
+BasicSamples/build/intermediates/dex-cache/cache.xml
+*.bin
